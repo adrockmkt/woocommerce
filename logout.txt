@@ -1,0 +1,3 @@
+// Adicionar o parâmetro para logar e redirecionar com o plugin WP Logout ai ele ignora a confirmação
+
+?customer-logout=true
